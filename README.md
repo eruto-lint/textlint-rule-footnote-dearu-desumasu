@@ -1,7 +1,7 @@
 # textlint-rule-footnote-dearu-desumasu
 
 [![npm](https://img.shields.io/npm/v/textlint-rule-footnote-dearu-desumasu.svg)](https://www.npmjs.com/package/textlint-rule-footnote-dearu-desumasu)
-[![test](https://github.com/erutobusiness/textlint-rule-footnote-dearu-desumasu/actions/workflows/test.yml/badge.svg)](https://github.com/erutobusiness/textlint-rule-footnote-dearu-desumasu/actions/workflows/test.yml)
+[![test](https://github.com/eruto-lint/textlint-rule-footnote-dearu-desumasu/actions/workflows/test.yml/badge.svg)](https://github.com/eruto-lint/textlint-rule-footnote-dearu-desumasu/actions/workflows/test.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 textlint rule to check mixed writing style (Dearu/Desumasu) in footnotes.
